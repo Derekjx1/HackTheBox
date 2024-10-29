@@ -1,7 +1,3 @@
----
-description: Hack the Box
----
-
 # Nibbles Box
 
 1. Enumerate using port scanning against target application to find out open ports and the services that are running. Use tool such as nmap
